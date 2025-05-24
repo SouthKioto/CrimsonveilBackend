@@ -7,3 +7,9 @@
 npm install
 ```
 
+
+## Start apki
+
+```bash
+node index.js
+```
