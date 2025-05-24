@@ -13,3 +13,7 @@ npm install
 ```bash
 node index.js
 ```
+
+## Opis
+
+Aplikacja oparta o Node.js oraz express.js
