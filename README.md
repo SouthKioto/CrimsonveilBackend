@@ -16,8 +16,8 @@ node index.js
 
 ## Opis
 
-Aplikacja oparta o Node.js oraz express.js
-Projekt do ktorego jest uzywana aplikacja backend:
+Aplikacja oparta o Node.js oraz express.js. <br>
+Projekt do ktorego jest uzywany backend:
 
 # [Crimsonveil](https://github.com/SouthKioto/Crimsonveil)
 
